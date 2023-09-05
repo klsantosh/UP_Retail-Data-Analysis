@@ -9,7 +9,6 @@ In this segment, you will get to know more about the problem statement for the R
 
 In the next video, our expert will walk you through the detailed problem statement for the project.
 
-Play Video3955990
 As discussed in the video, the online market has grown tremendously in the past few years.
 
 Digitally enabled customers like to shop on the run, and that is the reason why online shopping is one of the most popular online activities worldwide. In 2019, global e-commerce sales amounted to 3.53 trillion USD and are projected to grow to 6.54 trillion USD in 2022.
