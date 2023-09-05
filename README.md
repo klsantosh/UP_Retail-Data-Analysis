@@ -1,13 +1,10 @@
 # UP_Retail-Data-Analysis
+
+## Problem Statement
 Retail Data Analysis
 
 
-Problem Statement
-In this segment, you will get to know more about the problem statement for the Retail Data Analysis Project.
 
- 
-
-In the next video, our expert will walk you through the detailed problem statement for the project.
 
 As discussed in the video, the online market has grown tremendously in the past few years.
 
